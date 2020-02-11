@@ -9,10 +9,8 @@ This is just a list or react hooks that I've found, or developed that I added as
 * `usOnKeyPress` For triggering code when a user presses a specific key
 * `useChartDimensions` Helps keeps charts / SVG responsive when the windo is resized
 
-
 #### reactivestack
-* `useCookie` 
-
+* `useCookie`
 
 #### overreacted.io
 * `useInterval` Useful for animations`
