@@ -4,3 +4,4 @@
  */
 
 export { default as useIsInView } from './src/useIsInView';
+export { default as useWindowDimensions } from './src/useWindowDimensions';
